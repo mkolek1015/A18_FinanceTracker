@@ -32,10 +32,14 @@ GitHub: https://github.com/mkolek1015
 Michael Kolek
 
 
-![Image of Home Screen](https://github.com/mkolek1015/A11_Note_Taker/blob/main/public/Home%20Screen%20SS.jpg)
+![Image of Home Screen](https://github.com/mkolek1015/A18_FinanceTracker/blob/main/public/assets/images/Main%20screen.png)
 
-![Image of Note Pad](https://github.com/mkolek1015/A11_Note_Taker/blob/main/public/NotePad%20SS.jpg)
+![Image of Balance](https://github.com/mkolek1015/A18_FinanceTracker/blob/main/public/assets/images/Current%20balance.png)
 
-![Image of Notes API](https://github.com/mkolek1015/A11_Note_Taker/blob/main/public/Notes%20API%20SS.jpg)
+![Image of Balance Pre Deposit](https://github.com/mkolek1015/A18_FinanceTracker/blob/main/public/assets/images/BalancePreDeposit.png)
 
-![Image of Specfic Note API](https://github.com/mkolek1015/A11_Note_Taker/blob/main/public/Note2API%20SS.jpg)
+![Image of Balance Post Deposit](https://github.com/mkolek1015/A18_FinanceTracker/blob/main/public/assets/images/BalancePostDeposit.png)
+
+![Image of Balance Pre Expense](https://github.com/mkolek1015/A18_FinanceTracker/blob/main/public/assets/images/BalancePreExpense.png)
+
+![Image of Balance Post Expense](https://github.com/mkolek1015/A18_FinanceTracker/blob/main/public/assets/images/BalancePostExpense.png)
